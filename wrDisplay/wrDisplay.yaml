@@ -1,0 +1,6 @@
+name: WR Display
+internal_name: wrDisplay
+author: rainerzufahl
+description: |-
+  Display the World record for the current instance. /wrdisplay for settings.
+repo_url: https://github.com/RainerZufahl/DalamudWRdisplay
